@@ -1,0 +1,11 @@
+.DS_Store
+._.DS_Store
+._BOOT
+._OC
+OC/._.DS_Store
+OC/._ACPI
+OC/._config.plist
+OC/._Drivers
+OC/._Kexts
+OC/._OpenCore.efi
+OC/config.plist
