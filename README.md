@@ -15,4 +15,14 @@ DEBUG OC image is released under branch [debug](https://github.com/adimixx/OC-RO
 Will be updated soon
 ```
 
+Platform Info:  
+```
+Type: iMacPro1,1
+```
+
+
+## Usage
+1. Rename config.sample.plist to config.plist
+2. Follow instructions to set [Platform Info](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo) (Not Included)
+
 adimixx 2021
